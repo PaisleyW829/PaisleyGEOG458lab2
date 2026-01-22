@@ -15,7 +15,7 @@ From my perspective, I think parameters like "Alogorithm Bias" could attract tho
 
 ## Comparing amonng my word clouds
 
-![Algorithmic Bias](img/algorithmicBias.png)
+![Algorithmic Bias](img/AlgorithmicBias.png)
 [word cloud for Algorithm Bias]
 
 ![AI Bias](img/AIBias.png)
