@@ -14,6 +14,7 @@ Even thought these 3 parameters seem similar, and they could probably aim at the
 From my perspective, I think parameters like "Alogorithm Bias" could attract those videos which would explain how algorithm work and where the biases are made. And the parameters like "AI bias Discrimination" have more opportunity for the searching bot to find content that focused on inequality and other unfairness issues among the society. By comparing these search results, it could help us to reveal how using different search terms brings up different kinds of videos and perspectives on algorithm bias.
 
 ## Comparing amonng my word clouds
+
 ![Algorithmic Bias](img/algorithmicBias.png)
 [word cloud for Algorithm Bias]
 
